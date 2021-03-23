@@ -4,10 +4,12 @@
 
 #### 🚀 I’m a Chatbot Developer.
 - Currently Developing a Library in PHP to Build Chatbots.
-- Would you like to Implement It 👀? Mail me.
-- Would you like to Collaborate and Develop a Cool Library to Develop Chatbots? Mail me too.
-- I'm Currently reading and learning all the time so, probably I'll read your mail days later.
+- I hope you will have a good day, Go on!
 
-> I hope you will have a good day, Go on!
+### Find me here
 
-
+[LinkedIn](linkedin.com/in/m1zar/)
+[Youtube](https://www.youtube.com/channel/UCGqNR3g1grcxgqNRDC9KB0g)
+[Instagram](https://www.instagram.com/contasti.mizar/)
+[WatPadd](https://www.wattpad.com/user/_M1zar)
+[Twitter](https://twitter.com/Mizar_C)
