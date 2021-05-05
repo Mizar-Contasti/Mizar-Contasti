@@ -1,6 +1,6 @@
 ### Hello! I'm Mizar 👋🏾
 
-![Hero](https://codexceleste.com/hero.webp)
+![Hero](https://codexceleste.com/curso_3.png)
 
 #### 🚀 I’m a Chatbot Developer.
 - Currently Developing a Library in PHP to Build Chatbots.
