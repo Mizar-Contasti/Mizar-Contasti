@@ -17,4 +17,6 @@
 
 ### Projects
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1e03252d-7a43-4113-8a28-7824ba65ab17/deploy-status)](https://app.netlify.com/sites/chartress/deploys)
+Zaroc - [![Netlify Status](https://api.netlify.com/api/v1/badges/8287cf51-d283-4044-a4a3-46028135ee76/deploy-status)](https://app.netlify.com/sites/zaroc/deploys)
+
+Chartress - [![Netlify Status](https://api.netlify.com/api/v1/badges/1e03252d-7a43-4113-8a28-7824ba65ab17/deploy-status)](https://app.netlify.com/sites/chartress/deploys)
