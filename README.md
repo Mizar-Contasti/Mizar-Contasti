@@ -3,7 +3,7 @@
 <!--![Hero](https://codexceleste.com/curso_3.png)-->
 
 #### 🚀 I’m a Fullstack Chatbot Developer.
-- Currently Developing a Library in PHP && Node.Js && .NET to Build Chatbots.
+- Currently Developing a Library to Build Chatbots.
 - I hope you will have a good day, Go on!
 
 ### 📌 Find me here
