@@ -10,9 +10,6 @@
 
 [LinkedIn📅](linkedin.com/in/m1zar/)
 [Youtube📺](https://www.youtube.com/channel/UCGqNR3g1grcxgqNRDC9KB0g)
-[Instagram📷](https://www.instagram.com/contasti.mizar/)
-[WatPadd✍](https://www.wattpad.com/user/_M1zar)
-[Twitter🗣](https://twitter.com/Mizar_C)
 
 
 ### Projects
