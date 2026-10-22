@@ -2,8 +2,10 @@
 
 <!--![Hero](https://codexceleste.com/curso_3.png)-->
 
-#### 🚀 I’m a Fullstack Chatbot Developer.
-- Currently Developing a Library to Build Chatbots.
+#### 🚀 AI Tech Lead, Working on Deterministic AI powered by Generative AI
+- Currently Building an OS platform
+
+Im also know for building a Library to Build Chatbots.
 - I hope you will have a good day, Go on!
 
 ### 📌 Find me here
